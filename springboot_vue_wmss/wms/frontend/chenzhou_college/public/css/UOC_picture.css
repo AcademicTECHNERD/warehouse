@@ -1,0 +1,89 @@
+/* 全局限定 */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+/* 文字图标声明 */
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?o9855p');
+    src: url('fonts/icomoon.eot?o9855p#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?o9855p') format('truetype'),
+        url('fonts/icomoon.woff?o9855p') format('woff'),
+        url('fonts/icomoon.svg?o9855p#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+header {
+    width: auto;
+    height: 45px;
+    background-color: black;
+}
+
+header .header_inner_nav {
+    width: 1250px;
+    height: 45px;
+    margin: 0 auto;
+}
+
+header .header_inner_nav .nav_left {
+    float: left;
+}
+
+header .header_inner_nav .nav_left li {
+    float: left;
+    line-height: 45px;
+}
+
+header .header_inner_nav .nav_left span {
+    font-family: 'icomoon';
+    color: azure;
+    margin: 2px;
+}
+
+header .header_inner_nav .nav_left li a {
+    font-size: 12px;
+}
+
+header .header_inner_nav .nav_right {
+    width: 300px;
+    height: 45px;
+    float: right;
+}
+
+header .header_inner_nav .nav_right li {
+    float: left;
+    line-height: 45px;
+}
+
+header .header_inner_nav .nav_right span {
+    font-family: 'icomoon';
+    color: azure;
+}
+
+.shop_car {
+    display: inline-block;
+    width: 150px;
+    height: 45px;
+    margin-left: 20px;
+    background-color: darkblue;
+    line-height: 45px;
+    text-align: center;
+}
+.shop_car i{
+    font-family: 'icomoon';
+    margin-right: 10px;
+}
