@@ -1,0 +1,226 @@
+{
+  "id": "3717021",
+  "name": "new_study",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "35992267",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "35992286",
+      "name": "高铁",
+      "font_class": "gaotie",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "36657429",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "36657436",
+      "name": "cancel_circle",
+      "font_class": "cancel_circle",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "36657437",
+      "name": "add_square",
+      "font_class": "add_square",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "36657440",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "36657447",
+      "name": "ellipsis",
+      "font_class": "ellipsis",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "36657450",
+      "name": "expand",
+      "font_class": "expand",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "36657452",
+      "name": "left_double",
+      "font_class": "left_double",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "36657456",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "36657466",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "36657487",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "36657490",
+      "name": "rotate",
+      "font_class": "rotate",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "36657492",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "36657497",
+      "name": "right_circle",
+      "font_class": "right_circle",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "36657505",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "36657508",
+      "name": "right_double",
+      "font_class": "right_double",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "36657510",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "36774164",
+      "name": "建材",
+      "font_class": "jiancai",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "36774171",
+      "name": "餐饮",
+      "font_class": "canyin",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "36774172",
+      "name": "电影院",
+      "font_class": "dianyingyuan",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "36774177",
+      "name": "火车站",
+      "font_class": "huochezhan",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "36774178",
+      "name": "公交站",
+      "font_class": "gongjiaozhan",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "10130833",
+      "name": "可回收-金属类",
+      "font_class": "kehuishou-jinshulei",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "10130844",
+      "name": "可回收-塑料类",
+      "font_class": "kehuishou-suliaolei",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "10135145",
+      "name": "其他垃圾-一次性餐具",
+      "font_class": "qitalaji-yicixingcanju",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "10135167",
+      "name": "其他垃圾-破旧陶瓷品",
+      "font_class": "qitalaji-pojiutaocipin",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "10135409",
+      "name": "有害垃圾-废旧小家电",
+      "font_class": "youhailaji-feijiuxiaojiadian",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "10135414",
+      "name": "有害垃圾-过期药品",
+      "font_class": "youhailaji-guoqiyaopin",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "32474563",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "32243094",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    }
+  ]
+}

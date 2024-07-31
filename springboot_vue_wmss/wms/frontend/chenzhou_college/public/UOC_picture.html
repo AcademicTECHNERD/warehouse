@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>郴州大学照片</title>
+    <link rel="stylesheet" href="./UOC_picture.css">
+    <style>
+        @font-face {
+            font-family: "iconfont";
+            /* Project id 3717021 */
+            src: url('./font/iconfont.woff2') format('woff2'),
+                url('./font/iconfont.woff') format('woff'),
+                url('./font/iconfont.ttf') format('truetype');
+        }
+
+        header {
+            width: 200px;
+            background-color: white;
+            margin: 0 auto;
+        }
+
+        body {
+            perspective: 400px;
+        }
+
+        section {
+            /* overflow: hidden; */
+            position: relative;
+            width: 200px;
+            height: 200px;
+            margin: 100px auto;
+            transform-style: preserve-3d;
+        }
+
+        section:hover {
+            transform: rotateY(-360deg);
+            transition: all 15s;
+            animation-timing-function: linear;
+        }
+
+        img {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+        }
+
+        .one {
+            transform: translateZ(200px);
+        }
+
+        .two {
+            transform: rotateY(60deg) translateZ(200px);
+        }
+
+        .three {
+            transform: rotateY(120deg) translateZ(200px);
+        }
+
+        .four {
+            transform: rotateY(180deg) translateZ(200px);
+        }
+
+        .five {
+            transform: rotateY(240deg) translateZ(200px);
+        }
+
+        .six {
+            transform: rotateY(300deg) translateZ(200px);
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>校园风景</h1>
+    </header>
+    <section>
+        <div class="one"> <img src="./img/yelu01.webp" alt=""> </div>
+        <div class="two"> <img src="./img/yelu02.webp" alt=""> </div>
+        <div class="three"> <img src="./img/yelu03.webp" alt=""> </div>
+        <div class="four"> <img src="./img/yelu04.webp" alt=""> </div>
+        <div class="five"> <img src="./img/news_3.png" alt=""> </div>
+        <div class="six"> <img src="./img/news_2.jpeg" alt=""> </div>
+    </section>
+</body>
+
+</html>

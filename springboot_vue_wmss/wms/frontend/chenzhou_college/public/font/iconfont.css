@@ -1,0 +1,139 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3717021 */
+  src: url('iconfont.woff2?t=1691289927223') format('woff2'),
+       url('iconfont.woff?t=1691289927223') format('woff'),
+       url('iconfont.ttf?t=1691289927223') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-feiji:before {
+  content: "\e6dc";
+}
+
+.icon-gaotie:before {
+  content: "\e6dd";
+}
+
+.icon-add:before {
+  content: "\e63e";
+}
+
+.icon-cancel_circle:before {
+  content: "\e63f";
+}
+
+.icon-add_square:before {
+  content: "\e640";
+}
+
+.icon-down:before {
+  content: "\e641";
+}
+
+.icon-ellipsis:before {
+  content: "\e642";
+}
+
+.icon-expand:before {
+  content: "\e643";
+}
+
+.icon-left_double:before {
+  content: "\e644";
+}
+
+.icon-home:before {
+  content: "\e645";
+}
+
+.icon-left:before {
+  content: "\e646";
+}
+
+.icon-right:before {
+  content: "\e647";
+}
+
+.icon-rotate:before {
+  content: "\e648";
+}
+
+.icon-search:before {
+  content: "\e649";
+}
+
+.icon-right_circle:before {
+  content: "\e64a";
+}
+
+.icon-up:before {
+  content: "\e64b";
+}
+
+.icon-right_double:before {
+  content: "\e64c";
+}
+
+.icon-upload:before {
+  content: "\e64d";
+}
+
+.icon-jiancai:before {
+  content: "\e6f9";
+}
+
+.icon-canyin:before {
+  content: "\e6fa";
+}
+
+.icon-dianyingyuan:before {
+  content: "\e6fb";
+}
+
+.icon-huochezhan:before {
+  content: "\e6fc";
+}
+
+.icon-gongjiaozhan:before {
+  content: "\e6fd";
+}
+
+.icon-kehuishou-jinshulei:before {
+  content: "\e61e";
+}
+
+.icon-kehuishou-suliaolei:before {
+  content: "\e620";
+}
+
+.icon-qitalaji-yicixingcanju:before {
+  content: "\e631";
+}
+
+.icon-qitalaji-pojiutaocipin:before {
+  content: "\e633";
+}
+
+.icon-youhailaji-feijiuxiaojiadian:before {
+  content: "\e638";
+}
+
+.icon-youhailaji-guoqiyaopin:before {
+  content: "\e639";
+}
+
+.icon-sousuo:before {
+  content: "\e6c1";
+}
+
+.icon-guanbi:before {
+  content: "\e694";
+}
+

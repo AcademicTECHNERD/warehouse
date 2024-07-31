@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智慧门户平台</title>
+    <link rel="stylesheet" href="./css/UOC_administer.css">
+    <style>
+        @font-face {
+            font-family: 'icomoon';
+            src: url('fonts/icomoon.eot?o9855p');
+            src: url('fonts/icomoon.eot?o9855p#iefix') format('embedded-opentype'),
+                url('fonts/icomoon.ttf?o9855p') format('truetype'),
+                url('fonts/icomoon.woff?o9855p') format('woff'),
+                url('fonts/icomoon.svg?o9855p#icomoon') format('svg');
+            font-weight: normal;
+            font-style: normal;
+            font-display: block;
+        }
+
+        body {
+            background-image: url(./upload/bg_administer.jpg);
+            background-position: center center;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div class="banner">
+            <h1>
+                <font size="8" face="STFangsong" color="black">郴州大学</font>
+            </h1>
+            <h2>统一身份认证</h2>
+        </div>
+        <div class="content">
+            <span id="count">&nbsp;&nbsp;学号<input type="text"></span>
+            <span id="passage">&nbsp;&nbsp;密码<input type="text"></span>
+            <span>&nbsp;&nbsp;验证码
+                <input type="text" id="code">
+                <img src="./upload/code_phone.jpg" alt="">
+            </span>
+        </div>
+        <button>登录</button>
+
+    </main>
+</body>
+
+</html>
