@@ -1,0 +1,180 @@
+/* 横幅 */
+.banner {
+    z-index: 10;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 110px;
+    background-color: #4B0C77;
+    margin: 0 auto;
+    border-bottom: 5px solid pink;
+
+}
+
+/* .core {
+    width: 1200px;
+    height: 80px;
+    margin: 0 auto;
+
+} */
+
+.banner .logo {
+    height: 80px;
+    float: left;
+    margin: 10px 0 0 90px;
+}
+
+.banner .logo span {
+    position: absolute;
+    top: 78px;
+    left: 217px;
+    color: white;
+}
+
+.banner .logo img {
+    width: 80px;
+    height: 80px;
+    /* background-color: aliceblue; */
+}
+
+.banner .logo h1 {
+    display: inline;
+    line-height: 80px;
+    vertical-align: top;
+    color: aliceblue;
+}
+
+/* 暗区导航栏 */
+.banner .nav_top {
+    position: absolute;
+    top: 0;
+    right: 40px;
+    width: 720px;
+    height: 40px;
+    background-color: #62298a;
+    border-radius: 0 0 10px 10px;
+}
+
+.banner .nav_top li {
+    float: left;
+    line-height: 40px;
+    color: white;
+
+}
+
+.banner .nav_top li:nth-child(8) {
+    padding: 0 10px 0 10px;
+}
+
+.banner .nav_top li a {
+    color: white;
+    padding: 0 10px 0 10px;
+}
+
+.banner .nav_top button {
+    font-family: 'icomoon';
+    color: whitesmoke;
+    font-size: 20px;
+    width: 40px;
+    height: 38px;
+    background-color: #62298a;
+    border: 0;
+    float: right;
+}
+
+.banner .hidden_search {
+    display: none;
+    float: left;
+    width: 670px;
+    height: 40px;
+}
+
+.banner .hidden_search input {
+    float: left;
+    width: 650px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 10px;
+}
+
+/* 顶部功能开拓部分开始 */
+.banner .cha {
+    float: right;
+    margin-top: 55px;
+}
+
+
+
+.cha #ease {
+    position: relative;
+    width: 90px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    float: left;
+    margin-right: 20px;
+}
+
+
+.cha #ease ul li {
+    height: 50px;
+    line-height: 50px;
+}
+
+.cha #ease ul li:hover {
+    background-color: aqua;
+}
+
+.cha li ul {
+    display: none;
+    position: absolute;
+    width: 120px;
+    left: -15px;
+    background-color: rgb(157, 113, 157);
+}
+
+
+.cha li a {
+    color: white;
+}
+
+/* --------------------------------------------------- */
+
+/* 脚部开始 */
+footer {
+    width: auto;
+    height: 200px;
+    background-color: #f6f6f6;
+    margin-top: 30px;
+}
+
+.copyright {
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.copyright a {
+    text-align: center;
+    color: #646464;
+    margin: 0 5px;
+}
+
+.copyright ul {
+    text-align: center;
+    margin-left: 90px;
+}
+
+footer .copyright li {
+    float: left;
+    text-align: center;
+
+}
+
+footer .copyright p {
+    color: #646464;
+}
+
+/* 脚部结束 */
